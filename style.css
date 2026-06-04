@@ -29,7 +29,7 @@ body{
    position: absolute;
    top: 100px;
    left: 20px;
-   font-size:40px
+   font-size:60px
 }
 .description{
    font-family: 'Segoe UI', sans-serif;
@@ -37,18 +37,18 @@ body{
    position: absolute;
    top: 180px;
    left: 20px;
-   font-size:20px
+   font-size:40px
 }
 
 .btn{
    font-family: 'Segoe UI', sans-serif;
    text-decoration:none;
-   font-size: 40px;
+   font-size: 60px;
    border-radius:4px;
    color:white;
    border: 3px solid white;
    position: absolute;
-   top: 370px;
+   top: 580px;
    left: 30px;
    padding:8px;
    cursor: pointer;
